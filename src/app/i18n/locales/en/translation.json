@@ -1,0 +1,219 @@
+{
+  "HeroMainTitle": "AlliedSoft offers professional integrated services to their clients since 2003.",
+  "HeroMainTitleSupportText": "Main areas: software distribution and support, software development, SaaS/Cloud services, GIS services.",
+
+  "WeHaveWorkedWithPeople": "We have worked with amazing people",
+  "ManyMoreDealers": "And many dealers for 20+ brands in CEE region",
+
+  "CaseStudyIntroTitle": "Some catchy case study intro title",
+  "CaseStudyIntroDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor at risus viverra adipiscing. Id aliquet risus feugiat in ante metus dictum.",
+
+  "ContactUs": "Contact Us",
+  "Language": "Language",
+  "OurOffice": "Our Office",
+  "FollowUs": "Follow Us",
+  "OurWork": "Our Work",
+  "AboutUs": "About Us",
+  "OurServices": "Our Services",
+  "Blog": "Blog",
+  "AddressLine1": "Bartók Béla road 105-113. (Bartók Court Offices)",
+  "AddressLine2": "1115 Budapest, Hungary",
+  "Phone": "Phone",
+  "Fax": "Fax",
+  "Connect": "Connect",
+  "Email": "Email",
+
+  "SendUsAMessage": "Send us a Message",
+  "GetInContact": "Contact Us",
+  "Company": "Company",
+  "SignUpNewsLetter": "Sign up to our Newsletter",
+  "WhySignUpToNewsletter": "Subscribe to get updates with the latest news, articles.",
+  "EmailAddress": "Email address",
+
+  "Testimonial1": "Respecting our core values does make a difference, marking our place among the professional IT service providers focused on the Automotive industry.",
+
+  "ContactUsPageTitle": "Let’s work together",
+  "ContactUsTitleSupportText": "Feel free to reach out with any inquiries or questions you may have. We're here to help!",
+  "WorkInquiries": "Work inquiries",
+  "ContactUsInPerson": "We welcome the opportunity to connect with you at our office location. Feel free to reach out for any inquiries or to schedule a meeting.",
+  "ContactFeedbackTitle": "Thank you for your message!",
+  "ContactFeedback": "We will get back to you as soon as possible.",
+  "ContactErrorMessage": "An error occurred while sending your message. Please try again later.",
+
+  "FullName": "Full name",
+  "Message": "Message",
+
+  "CaseStudy": "Case study",
+
+  "ServicesSectionTitle": "We help you identify, explore and respond to new opportunities.",
+  "ServicesSectionSupportText": "Our team is dedicated to assisting you in navigating and leveraging new opportunities.",
+
+  "ServiceName1": "AUTOMASTER",
+  "ServiceDescription1": "A partner and distributor of AutoMaster since 2003, operates a regional support center in Budapest, serves six CEE countries, and has extensive experience with DMS projects across CEE, Western, and Nordic Europe.",
+
+  "ServiceName2": "ALLIEDSOFT SAAS",
+  "ServiceDescription2": "Customers can simply use the software, with no investment required, on a Pay-Per-Use basis, while we handle all technical aspects, including hardware, software, administration, security, and backups, managing all IT-related risks.",
+
+  "ServiceName3": "RHODECODE",
+  "ServiceDescription3": "The system offers flexibility with up to three version control systems (Subversion, GIT, Mercurial), features advanced access management, user-friendly changelogs, high-end data protection, innovative collaboration tools, multi-repository management, and built-in analytics.",
+
+  "ServiceName4": "STORMSHIELD",
+  "ServiceDescription4": "Our European-developed firewall, compliant with EU standards for top classified documents, features a fast, user-friendly interface, a high life expectancy (9-13 years MTBF), modular fail-safe architecture with redundant power and drives, and meets defense industry standards",
+
+  "ServiceName5": "F-Secure",
+  "ServiceDescription5": "Our Finnish cognitive endpoint security solution offers centralized management and real-time threat intelligence for servers, workstations, and mobile devices, providing protection across on-site, virtual, and cloud environments.",
+
+  "AboutUsPageTitle": "Our strength is collaboration",
+  "AboutUsTitleSupportText": "We believe that our strength lies in our collaborative approach, which puts our clients at the center of everything we do.",
+
+  "AboutUsParagraph1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae.",
+  "AboutUsParagraph2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut eu sem integer vitae.",
+
+  "AboutUsStat1": "20+",
+  "AboutUsStatDescription1": "Years of experience",
+  "AboutUsStat2": "3500+",
+  "AboutUsStatDescription2": "End users",
+  "AboutUsStat3": "100+",
+  "AboutUsStatDescription3": "Dealers signed on",
+
+  "OurCulture": "Our Culture",
+  "OurCultureTitle": "We strive for long-term partnerships and consider our clients' trust the most important.",
+  "OurCultureTitleSupportText": "We believe in long-term partnership and know that Customers' trust is our most valuable asset.",
+
+  "OurCulturePoint1": "Reliability",
+  "OurCultureDescription1": "A certified ISO 27001 compliant company with over 20 years of experience, specializing in IT services for high-risk financial and automotive sectors, focusing on quality over quantity.",
+
+  "OurCulturePoint2": "Flexibility",
+  "OurCultureDescription2": "Expert in building agile project teams with a strong European Automotive DMS network, capable of swiftly responding to market changes and customer demands with a senior team of nearly 20 experienced members.",
+
+  "OurCulturePoint3": "Coverage",
+  "OurCultureDescription3": "An Automotive DMS distributor with direct presence in 12 CEE countries, operating a Budapest-based support center in 9 languages, providing IT solutions to over 100 dealers and 3,500 end-users across CEE, Western, and Nordic Europe.",
+
+  "Leadership": "Leadership",
+  "Team": "Team",
+
+  "FromTheBlog": "From the Blog",
+  "FromTheBlogSupportText": "Stay up-to-date with the latest news and articles from AlliedSoft.",
+  
+
+  "_COMMENT_SERVICE_PAGE": "SERVICE PAGE",
+
+
+  "OurServicesPageTitle": "How we Work",
+  "OurServicesPageTitleSupportText": "Allied has significant experience in the following IT areas:",
+
+
+  "OurServicesPageTitleSupport1": "More than 20 years of experience in Automotive DMS software product development and consulting",
+  "OurServicesPageTitleSupport2": "Software distribution for Automotive and security products",
+  "OurServicesPageTitleSupport3": "Turn-key integrated IT solutions for the Automotive Retail IT business",
+  "OurServicesPageTitleSupport4": "GIS and professional satellite imagery services",
+  "OurServicesPageTitleSupport5": "Software development with different tools",
+  "OurServicesPageTitleSupport6": "Operating mission critical systems",
+  "OurServicesPageTitleSupport7": "Providing HA Cloud / SaaS services",
+  "OurServicesPageTitleSupport8": "Modeling of complex business processes",
+  
+
+  "ServiceTitle1": "Automaster",
+  "ServiceSupport1": "Top Class Dealer Management Software",
+  "Service1Paragraph1": "One of the top DMS systems worldwide, present in 42 countries, + 40 000 end users",
+  "Service1Paragraph2": "Developed in Finland, owned by DMS giant Keyloop Inc.",
+  "Service1Paragraph3": "30+ agreements with strategic OEMs, Dealer Associations and Parts Distributors",
+  "Service1Paragraph4": "AlliedSoft is AutoMaster partner and distributor since 2003",
+  "Service1Paragraph5": "We are present as AutoMaster distributor in 12 CEE countries, we opeate regional support center at Budapest in 9 languages",
+  "Service1Paragraph6": "AlliedSoft has extensive experience in DMS projects involving AutoMaster both in CEE and Western/Nordic Europe",
+
+  "Service1Tag1" : "One of the top DMS systems worldwide",
+  "Service1Tag2" : "Present in 42 countries",
+  "Service1Tag3" : "40.000+ end users",
+
+
+
+  "IncludedServices": "Included in this service",
+  "Service1Included1": "Reporting",
+  "Service1Included2": "In-depth Analysis",
+  "Service1Included3": "Included 3",
+  "Service1Included4": "Included 4",
+  "Service1Included5": "Included 5",
+
+  "ServiceTitle2": "AlliedSoft",
+  "ServiceSupport2": "SAAS Software as a Service",
+  "Service2Paragraph1": "Use the software application, we take care of the rest!",
+  "Service2Paragraph2": "Using the services does not require investment from the Customer",
+  "Service2Paragraph3": "Pay-Per-Use",
+  "Service2Paragraph4": "We provide full technical background (Hardware, Software, Administration, Security, Backups)",
+  "Service2Paragraph5": "All IT-related risks handled by us",
+
+
+  "ServiceTitle3": "Stormshield",
+  "ServiceSupport3": "Cybersecurity by Defense Professionals",
+  "Service3Paragraph1": "Firewall (both HW and SW) developed and manufactured in Europe",
+  "Service3Paragraph2": "The only firewall complying with EU standards for handling top classified documents",
+  "Service3Paragraph3": "Fast, user friendly, self-learning interface",
+  "Service3Paragraph4": "High life expectancy (9-13 years MTBF)",
+  "Service3Paragraph5": "Modular, fail-safe architecture with redundant power supply and drives",
+  "Service3Paragraph6": "Meeting defense industry standards",
+
+  "ServiceTitle4": "WITHSECURE",
+  "ServiceSupport4": "Enterprise Endpoint Protection and Much More",
+  "Service4Paragraph1": "Cognitive endpoint security solution from Finland",
+  "Service4Paragraph2": "Centralized management",
+  "Service4Paragraph3": "Safety solutions for servers, workstations and mobile devices",
+  "Service4Paragraph4": "Heuristic Analysis and real-time threat intelligence",
+  "Service4Paragraph5": "Protection on-site, in virtual enviroment and in cloud",
+
+  "ServiceTitle5": "RHODECODE",
+  "ServiceSupport5": "Innovative Source Code Management",
+  "Service5Paragraph1":"Flexibility to use up to three version control systems at the same time (Subversion, GIT, Mercurial)",
+  "Service5Paragraph2": "Easy and sophisticated access and permission management",
+  "Service5Paragraph3": "User-friendly changelog and graphlog",
+  "Service5Paragraph4": "High-end break through and data leakage prevention",
+  "Service5Paragraph5": "Innovative collaboration tools (smart code review, smart commit, process enforcement)",
+  "Service5Paragraph6": "Multiple repository and instance management",
+  "Service5Paragraph7": "Built-in analytics and management information system",
+
+  "OurValues": "Our Values",
+  "OurValuesTitle": "We believe in long-term partnership and know that Customers' trust is our most valuable asset.",
+  "OurValuesSupportText": "Respecting our core values does make a difference, marking our place among the professional IT service providers focused on the Automotive industry.",
+
+  "Value1": "Reliability",
+  "Value1Description1": "Certified ISO 27001 Compliant Information Security Policy",
+  "Value1Description2": "Experienced management (+20 years of working experience)",
+  "Value1Description3": "Full-scale IT services for top risk (Financial/Investment) sector customers",
+  "Value1Description4": "Continuous presence on the Automotive DMS market since 2003",
+  "Value1Description5": "Our business strategy: quality over quantity",
+
+  "Value2": "Flexibility",
+  "Value2Description1": "Experience in building expert project task teams",
+  "Value2Description2": "Swift reaction to both the market processes and the customer demands",
+  "Value2Description3": "Extensive network and know-how in the European Automotive retail IT business",
+  "Value2Description4": "Automotive DMS team: almost 20 highly experienced senior team members",
+  "Value2Description5": "Fast adaptation to challenges",
+
+  "Value3": "Strong regional presence",
+  "Value3Description1": "Direct presence as Automotive DMS distributor in 12 CEE countries",
+  "Value3Description2": "Regional Support Centre at Budapest operated in 9 languages",
+  "Value3Description3": "Extensive experience in Automotive Retail IT /DMS projects both in CEE and Western/Nordic Europe",
+  "Value3Description4": "Providing solutions and services for more than 100 dealers (and 25 brands) in 12 countries",
+  "Value3Description5": "Supporting ~ 3500 end-users",
+
+  "ReferencesTitle": "We are proud to call them our happy customers:",
+
+  "OurWorkTitle": "Our Work Title",
+  "OurWorkSupportText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "CaseStudies": "Case Studies",
+  "ReadCaseStudy": "Read case study",
+  "OurWorkClientsTitle": "Our Work Clients Title",
+
+  "BlogPageTitle": "Latest articles and news",
+ "BlogPageTitleSupportText": "Stay up-to-date with the latest news and articles from AlliedSoft.",
+  "Published": "Published",
+  "Author": "Author",
+  "ReadMore": "Read more",
+
+  "Client": "Client",
+  "Year": "Year",
+  "Service": "Service",
+  "MoreCaseStudies": "More case studies",
+  "MoreArticles": "More articles",
+  "By": "by"
+}

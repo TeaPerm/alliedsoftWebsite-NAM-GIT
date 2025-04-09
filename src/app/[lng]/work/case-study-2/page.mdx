@@ -1,0 +1,61 @@
+import logo from '@/images/clients/placeholder/jordan-2.svg'
+import imageHero from './hero.jpg'
+import placeholderPortrait from '@/images/clients/placeholder/placeholderPortrait.jpg'
+
+export const caseStudy = {
+  client: 'Random Client 2',
+  title: 'Case Study Title 2',
+  description:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nam aliquam sem et tortor.',
+  summary: [
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Penatibus et magnis dis parturient montes nascetur ridiculus mus.',
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi.',
+  ],
+  logo,
+  image: { src: imageHero },
+  date: '2022-06',
+  service: 'App development',
+  testimonial: {
+    author: { name: 'Random Person 2', role: 'CPO of Random Client 2' },
+    content:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempor id eu nisl nunc mi ipsum.',
+  },
+}
+
+export const metadata = {
+  title: `${caseStudy.client} Case Study`,
+  description: caseStudy.description,
+}
+
+## Overview
+
+Noticing incredibly high churn, the team at Phobia came to the conclusion that, instead of having a fundamentally flawed business idea, they needed to improve their onboarding process.
+
+Previously users selected their phobias manually but this led to some users selecting things they weren’t actually afraid of to increase their matches.
+
+To combat this, we developed a system that displays a slideshow of common phobias during onboarding. We then use malware to surreptitiously access their microphone and detect when they have audible reactions. We measure the pitch, volume and duration of their screams and feed that information to the matching algorithm.
+
+The next phase is a VR version of the onboarding flow where users are subjected to a series of scenarios that will determine their fears. We are currently developing the first scenario, working title: “Jumping out of a plane full of spiders”.
+
+## What we did
+
+<TagList>
+  <TagListItem>Android</TagListItem>
+  <TagListItem>iOS</TagListItem>
+  <TagListItem>Malware</TagListItem>
+  <TagListItem>VR</TagListItem>
+</TagList>
+
+<Blockquote
+  author={{ name: 'Random Person 2', role: 'CPO of Random Client 2' }}
+  image={{ src: placeholderPortrait }}
+>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel facilisis volutpat est. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Nec sagittis aliquam malesuada bibendum arcu vitae elementum.
+</Blockquote>
+
+<StatList>
+  <StatListItem value="20%" label="Stat 1" />
+  <StatListItem value="5x" label="Stat 2" />
+  <StatListItem value="2.3" label="Stat 3" />
+  <StatListItem value="8" label="Stat 4" />
+</StatList>

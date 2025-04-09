@@ -1,0 +1,65 @@
+import logo from '@/images/clients/placeholder/adidas-8.svg'
+import imageHero from './hero.jpg'
+import placeholderPortrait from '@/images/clients/placeholder/placeholderPortrait.jpg'
+
+export const caseStudy = {
+  client: 'Random Client',
+  title: 'Case Study Title',
+  description: 'Description of the case study',
+  summary: ['The first line of the summary', 'The second line of the summary.'],
+  logo,
+  image: { src: imageHero },
+  date: '2023-01-15',
+  service: 'Web development, CMS',
+  testimonial: {
+    author: { name: 'Random Person', role: 'CEO of Random Client' },
+    content: 'Something nice the client said about our product.',
+  },
+}
+
+export const metadata = {
+  title: caseStudy.title,
+  description: caseStudy.description,
+}
+
+## Overview
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac feugiat sed lectus vestibulum mattis.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Sit amet justo donec enim diam vulputate ut.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque non tellus orci ac auctor. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Ipsum dolor sit amet consectetur adipiscing.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod _"tempor incididunt"_ ut labore et dolore magna aliqua. In arcu cursus euismod quis viverra.
+
+<TopTip>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua. Imperdiet nulla malesuada
+  pellentesque elit eget gravida cum sociis. Etiam dignissim diam quis enim
+  lobortis scelerisque fermentum dui.
+</TopTip>
+
+## What we did
+
+<TagList>
+  <TagListItem>Frontend (Next.js)</TagListItem>
+  <TagListItem>Custom CMS</TagListItem>
+  <TagListItem>SEO</TagListItem>
+  <TagListItem>Infrastructure</TagListItem>
+</TagList>
+
+<Blockquote
+  author={{ name: 'Random Person', role: 'CEO of Random Client 1' }}
+  image={{ src: placeholderPortrait }}
+>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua. Odio tempor orci dapibus
+  ultrices. Leo integer malesuada nunc vel risus commodo viverra.
+</Blockquote>
+
+<StatList>
+  <StatListItem value="25%" label="Stat 1" />
+  <StatListItem value="10x" label="Stat 2" />
+  <StatListItem value="15%" label="Stat 3" />
+  <StatListItem value="$1.2M" label="Stat 4" />
+</StatList>

@@ -1,0 +1,212 @@
+{
+  "HeroMainTitle": "AlliedSoft svojim strankam od leta 2003 ponuja profesionalne integrirane storitve.",
+  "HeroMainTitleSupportText": "Glavna področja: distribucija in podpora programske opreme, razvoj programske opreme, SaaS/Cloud storitve, GIS storitve.",
+
+  "WeHaveWorkedWithPeople": "Sodelovali smo s odličnimi ljudmi",
+  "ManyMoreDealers": "In številnimi trgovci za več kot 20 blagovnih znamk v srednji in vzhodni Evropi",
+
+  "CaseStudyIntroTitle": "Zanimiv uvod v študijo primera",
+  "CaseStudyIntroDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor at risus viverra adipiscing. Id aliquet risus feugiat in ante metus dictum.",
+
+  "ContactUs": "Kontaktirajte nas",
+  "Language": "Jezik",
+  "OurOffice": "Naša pisarna",
+  "FollowUs": "Spremljajte nas",
+  "OurWork": "Naše delo",
+  "AboutUs": "O nas",
+  "OurServices": "Naše storitve",
+  "Blog": "Blog",
+  "AddressLine1": "Bartók Béla ulica 105-113. (Pisarne Bartók Court)",
+  "AddressLine2": "1115 Budimpešta, Madžarska",
+  "Phone": "Telefon",
+  "Fax": "Faks",
+  "Connect": "Povežite se",
+  "Email": "E-pošta",
+
+  "SendUsAMessage": "Pošljite nam sporočilo",
+  "GetInContact": "Stopite v stik",
+  "Company": "Podjetje",
+  "SignUpNewsLetter": "Naročite se na naš glasnik",
+  "WhySignUpToNewsletter": "Naročite se za prejemanje najnovejših novic in člankov.",
+  "EmailAddress": "E-poštni naslov",
+
+  "Testimonial1": "Spoštovanje naših temeljnih vrednot ustvarja razliko in označuje naše mesto med profesionalnimi ponudniki IT storitev, osredotočenimi na avtomobilsko industrijo.",
+
+  "ContactUsPageTitle": "Sodelujmo skupaj",
+  "ContactUsTitleSupportText": "Prosim, stopite v stik z nami s kakršnimi koli vprašanji ali povpraševanji. Tu smo, da vam pomagamo!",
+  "WorkInquiries": "Delovna povpraševanja",
+  "ContactUsInPerson": "Veselimo se priložnosti, da se povežemo z vami v naših pisarnah. Prosim, stopite v stik z nami s kakršnimi koli vprašanji ali za dogovor srečanja.",
+  "ContactFeedbackTitle": "Hvala za vaše sporočilo!",
+  "ContactFeedback": "Odgovorili vam bomo čim prej.",
+  "ContactErrorMessage": "Pri pošiljanju vašega sporočila je prišlo do napake. Prosim, poskusite ponovno kasneje.",
+
+  "FullName": "Polno ime",
+  "Message": "Sporočilo",
+
+  "CaseStudy": "Študija primera",
+
+  "ServicesSectionTitle": "Pomagamo vam identificirati, raziskati in odzivati se na nove priložnosti.",
+  "ServicesSectionSupportText": "Naša ekipa je predana pomoči pri navigaciji in izkoriščanju novih priložnosti.",
+
+  "ServiceName1": "AUTOMASTER",
+  "ServiceDescription1": "Partner in distributer AutoMaster od leta 2003, upravlja regionalno podporo v Budimpešti, servisira šest držav srednje in vzhodne Evrope ter ima bogate izkušnje s projekti DMS v srednji, zahodni in severni Evropi.",
+
+  "ServiceName2": "ALLIEDSOFT SAAS",
+  "ServiceDescription2": "Stranke lahko enostavno uporabljajo programsko opremo brez potrebe po naložbi na podlagi plačila po uporabi, medtem ko mi skrbimo za vse tehnične vidike, vključno s strojno opremo, programsko opremo, administracijo, varnostjo in varnostnim kopiranjem, upravljamo z vsemi IT povezanimi tveganji.",
+
+  "ServiceName3": "RHODECODE",
+  "ServiceDescription3": "Sistem ponuja fleksibilnost z do tremi sistemi za nadzor različic (Subversion, GIT, Mercurial), vsebuje napredno upravljanje dostopa, uporabniku prijazne spremembe, visokonivojsko zaščito podatkov, inovativna orodja za sodelovanje, upravljanje z več repozitoriji in vgrajena analitična orodja.",
+
+  "ServiceName4": "STORMSHIELD",
+  "ServiceDescription4": "Naš evropsko razvit požarni zid, v skladu z evropskimi standardi za najbolj zaupne dokumente, ima hitro, uporabniku prijazno vmesje, visoko življenjsko dobo (9-13 let MTBF), modularno arhitekturo z redundantnim napajanjem in diski ter izpolnjuje standarde obrambne industrije",
+
+  "ServiceName5": "F-Secure",
+  "ServiceDescription5": "Naša finska kognitivna rešitev za varnost končnih točk ponuja centralizirano upravljanje in informacije o grožnjah v realnem času za strežnike, delovne postaje in mobilne naprave, zagotavljajoč zaščito v lokalnih, virtualnih in oblačnih okoljih.",
+
+  "AboutUsPageTitle": "Naša moč je v sodelovanju",
+  "AboutUsTitleSupportText": "Verjamemo, da naša moč leži v našem sodelovalnem pristopu, ki postavlja naše stranke v središče vsega, kar počnemo.",
+
+  "AboutUsParagraph1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae.",
+  "AboutUsParagraph2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut eu sem integer vitae.",
+
+  "AboutUsStat1": "20+",
+  "AboutUsStatDescription1": "Let izkušenj",
+  "AboutUsStat2": "3500+",
+  "AboutUsStatDescription2": "Končnih uporabnikov",
+  "AboutUsStat3": "100+",
+  "AboutUsStatDescription3": "Registriranih trgovcev",
+
+  "OurCulture": "Naša kultura",
+  "OurCultureTitle": "Stremimo k dolgoročnim partnerstvom in menimo, da je zaupanje naših strank najpomembnejše.",
+  "OurCultureTitleSupportText": "Verjamemo v dolgoročno partnerstvo in vemo, da je zaupanje strank naš najdragocennejši vir.",
+
+  "OurCulturePoint1": "Zanesljivost",
+  "OurCultureDescription1": "Certificirano podjetje v skladu s standardom ISO 27001 z več kot 20 leti izkušenj, specializirano za IT storitve za tvegane finančne in avtomobilske sektorje, s poudarkom na kakovosti pred količino.",
+
+  "OurCulturePoint2": "Fleksibilnost",
+  "OurCultureDescription2": "Strokovnjak pri gradnji agilnih projektnih ekip z močno evropsko mrežo Automotive DMS, sposoben za hitro odzivanje na tržne spremembe in zahteve strank s seniorsko ekipo skoraj 20 izkušenih članov.",
+
+  "OurCulturePoint3": "Pokritost",
+  "OurCultureDescription3": "Distributer Automotive DMS z neposredno prisotnostjo v 12 državah srednje in vzhodne Evrope, upravljanje s podporo v Budimpešti v 9 jezikih, zagotavljanje IT rešitev za več kot 100 trgovcev in 3.500 končnih uporabnikov v srednji, zahodni in severni Evropi.",
+
+  "Leadership": "Vodstvo",
+  "Team": "Ekipa",
+
+  "FromTheBlog": "Iz bloga",
+  "FromTheBlogSupportText": "Ostanite obveščeni o najnovejših novicah in člankih od AlliedSoft.",
+
+  "_COMMENT_SERVICE_PAGE": "SERVICE PAGE",
+
+  "OurServicesPageTitle": "Kako delamo",
+  "OurServicesPageTitleSupportText": "Allied ima pomembne izkušnje na naslednjih IT področjih:",
+
+  "OurServicesPageTitleSupport1": "Več kot 20 let izkušenj v razvoju programskih izdelkov in svetovanju za Automotive DMS",
+  "OurServicesPageTitleSupport2": "Distribucija programske opreme za Automotive in varnostne izdelke",
+  "OurServicesPageTitleSupport3": "Celovite integrirane IT rešitve za Automotive Retail IT poslovanje",
+  "OurServicesPageTitleSupport4": "GIS in profesionalne storitve satelitskih posnetkov",
+  "OurServicesPageTitleSupport5": "Razvoj programske opreme z različnimi orodji",
+  "OurServicesPageTitleSupport6": "Upravljanje s kritičnimi sistemi",
+  "OurServicesPageTitleSupport7": "Zagotavljanje HA Cloud / SaaS storitev",
+  "OurServicesPageTitleSupport8": "Modeliranje kompleksnih poslovnih procesov",
+
+  "ServiceTitle1": "Automaster",
+  "ServiceSupport1": "Najboljša programska oprema za upravljanje trgovcev",
+  "Service1Paragraph1": "Eden najboljših DMS sistemov na svetu, prisoten v 42 državah, + 40.000 končnih uporabnikov",
+  "Service1Paragraph2": "Razvit na Finskem, v lasti DMS velikana Keyloop Inc.",
+  "Service1Paragraph3": "30+ sporazumov s strateškimi OEM, Združenji trgovcev in Distributerji delov",
+  "Service1Paragraph4": "AlliedSoft je partner in distributer AutoMaster od leta 2003",
+  "Service1Paragraph5": "Prisotni smo kot distributer AutoMaster v 12 državah srednje in vzhodne Evrope, upravljamo regionalno podporo v Budimpešti v 9 jezikih",
+  "Service1Paragraph6": "AlliedSoft ima bogate izkušnje s projekti DMS, ki vključujejo AutoMaster v srednji in zahodni/severni Evropi",
+
+  "Service1Tag1": "Eden najboljših DMS sistemov na svetu",
+  "Service1Tag2": "Prisoten v 42 državah",
+  "Service1Tag3": "40.000+ končnih uporabnikov",
+
+  "IncludedServices": "Vključeno v to storitev",
+  "Service1Included1": "Poročanje",
+  "Service1Included2": "Poglobljena analiza",
+  "Service1Included3": "Vključeno 3",
+  "Service1Included4": "Vključeno 4",
+  "Service1Included5": "Vključeno 5",
+
+  "ServiceTitle2": "AlliedSoft",
+  "ServiceSupport2": "SAAS Programska oprema kot storitev",
+  "Service2Paragraph1": "Uporabljajte programsko aplikacijo, mi bomo poskrbeli za ostalo!",
+  "Service2Paragraph2": "Uporaba storitev ne zahteva naložbe od stranke",
+  "Service2Paragraph3": "Plačilo po uporabi",
+  "Service2Paragraph4": "Zagotavljamo popolno tehnično ozadje (Strojna oprema, Programska oprema, Administracija, Varnost, Varnostno kopiranje)",
+  "Service2Paragraph5": "Vsa IT povezana tveganja upravljana z nami",
+
+  "ServiceTitle3": "Stormshield",
+  "ServiceSupport3": "Kibernetska varnost od obrambnih strokovnjakov",
+  "Service3Paragraph1": "Požarni zid (HW in SW) razvit in proizveden v Evropi",
+  "Service3Paragraph2": "Edini požarni zid v skladu z evropskimi standardi za obdelavo najbolj zaupnih dokumentov",
+  "Service3Paragraph3": "Hitro, uporabniku prijazno, samoučeče se vmesje",
+  "Service3Paragraph4": "Visoka življenjska doba (9-13 let MTBF)",
+  "Service3Paragraph5": "Modularna, varna arhitektura z redundantnim napajanjem in diski",
+  "Service3Paragraph6": "Izpolnjuje standarde obrambne industrije",
+
+  "ServiceTitle4": "WITHSECURE",
+  "ServiceSupport4": "Zaščita končnih točk za podjetja in še veliko več",
+  "Service4Paragraph1": "Kognitivna rešitev za varnost končnih točk iz Finske",
+  "Service4Paragraph2": "Centralizirano upravljanje",
+  "Service4Paragraph3": "Varnostne rešitve za strežnike, delovne postaje in mobilne naprave",
+  "Service4Paragraph4": "Hevristična analiza in informacije o grožnjah v realnem času",
+  "Service4Paragraph5": "Zaščita lokalno, v virtualnem okolju in v oblaku",
+
+  "ServiceTitle5": "RHODECODE",
+  "ServiceSupport5": "Inovativno upravljanje izvorne kode",
+  "Service5Paragraph1": "Fleksibilnost uporabe do treh sistemov za nadzor različic hkrati (Subversion, GIT, Mercurial)",
+  "Service5Paragraph2": "Enostavno in sofisticirano upravljanje dostopa in dovoljenj",
+  "Service5Paragraph3": "Uporabniku prijazen changelog in graphlog",
+  "Service5Paragraph4": "Visokonivojsko preprečevanje vdora in uhajanja podatkov",
+  "Service5Paragraph5": "Inovativna orodja za sodelovanje (pametno pregledovanje kode, pametni commit, uveljavljanje procesov)",
+  "Service5Paragraph6": "Upravljanje z več repozitoriji in instancami",
+  "Service5Paragraph7": "Vgrajena analitična orodja in sistem vodstvenih informacij",
+
+  "OurValues": "Naše vrednote",
+  "OurValuesTitle": "Verjamemo v dolgoročno partnerstvo in vemo, da je zaupanje strank naš najdragocennejši vir.",
+  "OurValuesSupportText": "Spoštovanje naših temeljnih vrednot ustvarja razliko in označuje naše mesto med profesionalnimi ponudniki IT storitev, osredotočenimi na avtomobilsko industrijo.",
+
+  "Value1": "Zanesljivost",
+  "Value1Description1": "Certificirana politika informacijske varnosti v skladu s standardom ISO 27001",
+  "Value1Description2": "Izkušeno vodstvo (več kot 20 let delovnih izkušenj)",
+  "Value1Description3": "Celovite IT storitve za stranke z visokim tveganjem (Finančni/Investicijski) sektor",
+  "Value1Description4": "Kontinuirana prisotnost na trgu Automotive DMS od leta 2003",
+  "Value1Description5": "Naša poslovna strategija: kakovost pred količino",
+
+  "Value2": "Fleksibilnost",
+  "Value2Description1": "Izkušnje v gradnji ekspertskih projektnih ekip",
+  "Value2Description2": "Hitro odzivanje na tržne procese in zahteve strank",
+  "Value2Description3": "Široka mreža in znanje v evropskem Automotive retail IT poslovanju",
+  "Value2Description4": "Automotive DMS ekipa: skoraj 20 visoko izkušenih seniorskih članov ekipe",
+  "Value2Description5": "Hitra prilagoditev na izzive",
+
+  "Value3": "Močna regionalna prisotnost",
+  "Value3Description1": "Neposredna prisotnost kot distributer Automotive DMS v 12 državah srednje in vzhodne Evrope",
+  "Value3Description2": "Regionalna podpora v Budimpešti, ki deluje v 9 jezikih",
+  "Value3Description3": "Bogate izkušnje v projektih Automotive Retail IT /DMS v srednji in zahodni/severni Evropi",
+  "Value3Description4": "Zagotavljanje rešitev in storitev za več kot 100 trgovcev (in 25 blagovnih znamk) v 12 državah",
+  "Value3Description5": "Podpora ~ 3500 končnim uporabnikom",
+
+  "ReferencesTitle": "Ponosni smo, da jih lahko imenujemo našimi zadovoljnimi strankami:",
+
+  "OurWorkTitle": "Naše delo",
+  "OurWorkSupportText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "CaseStudies": "Študije primerov",
+  "ReadCaseStudy": "Preberi študijo primera",
+  "OurWorkClientsTitle": "Naše stranke",
+
+  "BlogPageTitle": "Najnovejši članki in novice",
+  "BlogPageTitleSupportText": "Ostanite obveščeni o najnovejših novicah in člankih od AlliedSoft.",
+  "Published": "Objavljeno",
+  "Author": "Avtor",
+  "ReadMore": "Preberi več",
+
+  "Client": "Stranka",
+  "Year": "Leto",
+  "Service": "Storitev",
+  "MoreCaseStudies": "Več študij primerov",
+  "MoreArticles": "Več člankov",
+  "By": "od"
+} 

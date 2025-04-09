@@ -1,0 +1,231 @@
+{
+  "HeroMainTitle": "Az Allied Software Systems 2003 óta nyújt professzionális IT szolgáltatást ügyfeleinek.",
+  "HeroMainTitleSupportText": "Főbb szakterületek: szoftver termékfejlesztés, szoftver disztribúció, informatikai rendszerüzemeltetés, digitális térképészet.",
+  "WeHaveWorkedWithPeople": "Remek cégekkel dolgozunk együtt",
+
+  "ManyMoreDealers": "És még sok kereskedő több mint 20 márkához a közép-kelet-európai régióban",
+  "CaseStudyIntroTitle": "Valami esettanulmánybemutató cím",
+  "CaseStudyIntroDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor at risus viverra adipiscing. Id aliquet risus feugiat in ante metus dictum.",
+
+  "ContactUs": "Kapcsolatfelvétel",
+  "Language": "Nyelv",
+  "OurOffice": "Az irodánk",
+  "FollowUs": "Kövessen Minket",
+  "OurWork": "Munkáink",
+  "AboutUs": "Rólunk",
+  "OurServices": "Szolgáltatásaink",
+  "Blog": "Blog",
+  "AddressLine1": "Bartók Béla út 105-113. (Bartók udvar irodaház)",
+  "AddressLine2": "1115 Budapest, Magyarország",
+  "Phone": "Telefonszám",
+  "Fax": "Fax",
+  "Connect": "Kövessen",
+  "Email": "E-mail",
+
+  "SendUsAMessage": "Kérdése van?",
+  "GetInContact": "Lépjen kapcsolatba",
+  "Company": "Cég",
+  "SignUpNewsLetter": "Iratkozzon fel hírlevelünkre",
+  "WhySignUpToNewsletter": "Iratkozzon fel, hogy frissítéseket kaphasson a legújabb hírekről és cikkeinkről.",
+  "EmailAddress": "Email cím",
+
+  "Testimonial1": "Fennállásunk óta számtalan alkalommal megbizonyosodhattunk róla, hogy feltétlen ragaszkodásunk alapértékeinkhez önmagában egy olyan versenyelőnyt biztosít számunkra, amely hosszútávon kijelöli helyünket a professzionális, középméretű IT szolgáltatók regionális piacán.",
+
+  "ContactUsPageTitle": "Dolgozzon velünk",
+  "ContactUsTitleSupportText": "Bátran lépjen kapcsolatba bármilyen érdeklődéssel vagy kérdéssel. Itt vagyunk, hogy segítsünk!",
+  "WorkInquiries": "Munkával kapcsolatos megkeresések",
+  "ContactUsInPerson": "Örömünkre szolgálna, hogyha személyesen is találkozhatunk Önnel irodánkban. Bármilyen kérdéssel vagy időpont-egyeztetéssel forduljon hozzánk bizalommal.",
+  "ContactFeedbackTitle": "Köszönjük üzenetét!",
+ "ContactFeedback": "Hamarosan felvesszük Önnel a kapcsolatot.",
+ "ContactErrorMessage": "Hiba történt az üzenet küldése közben. Kérjük, próbálja meg később.",
+
+  "FullName": "Teljes név",
+  "Message": "Üzenet",
+
+  "CaseStudy": "Esettanulmány",
+
+  "ServicesSectionTitle": "Segítünk azonosítani, feltárni és reagálni az új lehetőségekre.",
+  "ServicesSectionSupportText": "Csapatunk elkötelezett amellett, hogy segítsen Önnek az új lehetőségek felfedezésében és kihasználásában.",
+
+  "ServiceName1": "AUTOMASTER",
+  "ServiceDescription1": "A CDK Global tulajdonában lévő, finn fejlesztésű DMS rendszert 42 országban több mint 40.000 felhasználó alkalmazza. Az Alliedsoft mint közvetlen disztribútor és termékfejlesztő partner 6 közép-európai országban van jelen, budapesti központjából 6 nyelven nyújt támogatást ügyfelei számára.",
+
+  "ServiceName2": "ALLIEDSOFT SAAS",
+  "ServiceDescription2": "A teljes körű IT szolgáltatás keretében minden technikai hátteret (hardver, szoftver, biztonság) biztosítunk, így az ügyfél csak a használat mértékével arányos díjat fizeti, külön befektetés nélkül.",
+
+  "ServiceName3": "RHODECODE",
+  "ServiceDescription3": "A rendszer támogatja a GIT, Mercurial és Subversion integrációját, fejlett változáskövetést, adatszivárgás-védelmet és intuitív csoportmunkát. Emellett korlátlan repository-kezelést és részletes analitikai eszközöket kínál.",
+  
+  "ServiceName4": "STORMSHIELD",
+  "ServiceDescription4": "Ez az Európában fejlesztett tűzfalrendszer az egyetlen, amely rendelkezik EU minősítéssel titkosított dokumentumok kezeléséhez. A moduláris felépítésű rendszer 9-13 éves élettartammal és felhasználóbarát kezelőfelülettel rendelkezik.",
+
+  "ServiceName5": "F-Secure",
+  "ServiceDescription5": "A finn fejlesztésű kognitív biztonsági megoldás korszerű központi menedzsmenttel védi a szervereket, számítógépeket és mobileszközöket. A rendszer fejlett viselkedéselemzést alkalmaz, és teljes védelmet nyújt mind virtuális, mind felhő környezetben.",
+
+  "AboutUsPageTitle": "Erősségünk az együttműködés",
+  "AboutUsTitleSupportText": "Hiszünk abban, hogy a hosszú távú üzleti siker kulcsa a kölcsönös bizalom, a megbízhatóság és a minőség.",
+
+  "AboutUsParagraph1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae.",
+  "AboutUsParagraph2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut eu sem integer vitae.",
+
+  "AboutUsStat1": "20+",
+  "AboutUsStatDescription1": "Évnyi tapasztalat",
+  "AboutUsStat2": "3500+",
+  "AboutUsStatDescription2": "Elégedett felhasználó",
+  "AboutUsStat3": "100+",
+  "AboutUsStatDescription3": "Leszerződött kereskedő",
+
+  "OurCulture": "Értékeink",
+  "OurCultureTitle": "Hosszú távú partnerségekre törekszünk, és az ügyfeleink bizalmát tartjuk a legfontosabbnak.",
+  "OurCultureTitleSupportText": "Cégünk megalakulása óta olyan értékekre alapozza működését, melyekről hisszük, hogy egy hosszú távon sikeres üzletmenet kizárólagos biztosítékai",
+
+  "OurCulturePoint1": "Megbízhatóság",
+  "OurCultureDescription1": "ISO 27001 tanúsítvánnyal rendelkező cég, több mint 20 év tapasztalattal, IT szolgáltatásokat nyújtva a magas kockázatú pénzügyi és autóipari szektorokban, a minőségre helyezve a hangsúlyt.",
+
+  "OurCulturePoint2": "Rugalmasság",
+  "OurCultureDescription2": "Szakértő az agilis projektcsapatok kialakításában, erős európai autóipari DMS hálózattal, amely gyorsan reagál a piaci változásokra és ügyféligényekre, egy közel 20 fős tapasztalt vezetői csapattal.",
+
+  "OurCulturePoint3": "Erős regionális piaci jelenlét",
+  "OurCultureDescription3": "Autóipari DMS forgalmazó, közvetlen jelenléttel 12 közép-kelet-európai országban, budapesti támogatási központtal 9 nyelven, IT megoldásokat kínálva több mint 100 kereskedőnek és 3500 felhasználónak Közép- és Kelet-Európában, valamint Nyugat- és Észak-Európában.",
+
+  "Leadership": "Leadership",
+  "Team": "Team",
+
+  "FromTheBlog": "Blog",
+  "FromTheBlogSupportText": "Maradj naprakész a legújabb hírekkel és cikkekkel kapcsolatban.",
+
+  "_COMMENT_SERVICE_PAGE": "SERVICE PAGE",
+
+  "OurServicesPageTitle": "Amit nyújtunk",
+  "OurServicesPageTitleSupportText": "Az Allied Software Systems Kft. az alábbi informatikai területeken rendelkezik jelentős tapasztalattal:",
+
+  "OurServicesPageTitleSupport1": "Több, mint 18 éves gépjármű kereskedelmi ügyviteli (DMS) termékfejlesztési és terméktámogatási tapasztalat",
+  "OurServicesPageTitleSupport2": "DMS és biztonsági szoftverek disztribúciója",
+  "OurServicesPageTitleSupport3": "Kulcsrakész integrált gépjármű kereskedelmi ügyviteli rendszerek",
+  "OurServicesPageTitleSupport4": "Összetett üzleti folyamatok informatikai modellezése",
+  "OurServicesPageTitleSupport5": "Egyedi szoftverfejlesztés változatos eszközökkel",
+  "OurServicesPageTitleSupport6": " Kritikus fontosságú rendszerek üzemeltetése",
+  "OurServicesPageTitleSupport7": "Privát felhő /SaaS szolgáltatások biztosítása",
+  "OurServicesPageTitleSupport8": "Komplex digitális térképészeti megoldások, professzionális műholdfelvételek beszerzése, értékesítés",
+
+
+  "ServiceTitle1": "Automaster",
+  "ServiceSupport1": "Első osztályú DMS (Dealer Management Software) szolgáltató",
+  "Service1Paragraph1": "A világ egyik legjobb DMS rendszere, 42 országban +40.000 végfelhasználóval rendelkezik",
+  "Service1Paragraph2": "A finn fejlesztésű szoftver 2015-től a DMS óriás CDK Global tulajdonában van",
+  "Service1Paragraph3": "Több mint 30 megállapodás stratégiai OEM-ekkel, kereskedői szövetségekkel és alkatrész forgalmazókkal",
+  "Service1Paragraph4": "2003 óta termékfejlesztő partner",
+  "Service1Paragraph5": "A cég közvetlen disztribútor 6 Közép-Európai országban, a budapesti regionális központ 6 nyelven nyújt támogatást az Automaster ügyfeleinek",
+  "Service1Paragraph6": "Az Alliedsoft széleskörű tapasztalattal rendelkezik az automata/DMS projektek területén mind Közép-Európában mind pedig Észak-nyugat Európában",
+  "Service1Tag1" : "A világ egyik legjobb DMS rendszere",
+  "Service1Tag2" : "Jelen 42 országban",
+  "Service1Tag3" : "Több mint 40.000+ felhasználó",
+
+  "IncludedServices": "Included in this service",
+  "Service1Included1": "Reporting",
+  "Service1Included2": "In-depth Analysis",
+  "Service1Included3": "Included 3",
+  "Service1Included4": "Included 4",
+  "Service1Included5": "Included 5",
+
+  "ServiceTitle2": "AlliedSoft",
+  "ServiceSupport2": "Szoftver és hardver bérlési szolgáltatás",
+  "Service2Paragraph1": "Használja a szoftver alkalmazást, a többiről mi gondoskodunk!",
+  "Service2Paragraph2": "A szolgáltatások igénybevétele nem igényel befektetést az Ügyféltől",
+  "Service2Paragraph3": "A megrendelő kizárólag a felhasználás mértékével arányos díjat fizet",
+  "Service2Paragraph4": "Teljes technikai hátteret biztosítunk (hardver, szoftver, adminisztráció, biztonság, biztonsági mentések)",
+  "Service2Paragraph5": "Minden IT-vel kapcsolatos kockázatot mi kezelünk",
+
+  "ServiceTitle3": "Stormshield",
+  "ServiceSupport3": "Nagy teljesítményű magyar nyelvű tűzfal, maximális biztonság",
+  "Service3Paragraph1": "A tűzfalat (HW és SW egyaránt) Európában fejlesztették és gyártották",
+  "Service3Paragraph2": "A világon az egyetlen tűzfal, amelyek teljesítik az Európai Unió minősítését a titkosítási szinttel rendelkező dokumentumok kezelésében",
+  "Service3Paragraph3": "Felhasználóbarát, gyorsan tanulható kezelőfelület",
+  "Service3Paragraph4": "Tűzfalak egyedülállóan magas, 9-13 éves várható élettartammal (MTBF) rendelkeznek",
+  "Service3Paragraph5": "Nagyvállalati tűzfalak moduláris, hibatűrő felépítéssel, dupla tápegységekkel és akár redundáns SSD meghajtóval biztosítanak önjavító működést",
+  "Service3Paragraph6": "A védelmi ipari szabványoknak való megfelelés",
+
+  "Service3Included1": "Testing",
+  "Service3Included1Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.ting",
+  "Service3Included2": "Support",
+  "Service3Included2Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.ting",
+  "Service3Included3": "Included 3",
+  "Service3Included3Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.ting",
+
+  "ServiceTitle4": "F-Secure",
+  "ServiceSupport4": "Teljeskörű vállalati kiberbiztonsági megoldások",
+  "Service4Paragraph1": "Kognitív végpont biztonsági megoldás Finnországból",
+  "Service4Paragraph2": "Fejlett biztonság több eszközön korszerű központi menedzsmenttel",
+  "Service4Paragraph3": "Szerverek, számítógépek és mobileszközök védelmi megoldásai",
+  "Service4Paragraph4": "Továbbfejlesztett viselkedés- és heurisztikai elemzés",
+  "Service4Paragraph5": "Védelem virtuális- és felhő környezetben",
+
+
+  "Service4Included1": "Reporting",
+  "Service4Included2": "In-depth Analysis",
+  "Service4Included3": "Included 3",
+  "Service4Included4": "Included 4",
+  "Service4Included5": "Included 5",
+
+  "ServiceTitle5": "Rhodecode",
+  "ServiceSupport5": "Innovatív szoftver forráskód kezelése",
+  "Service5Paragraph1":"GIT, Mercurial és Subversion rendszerekkel képes együttműködni.",
+  "Service5Paragraph2": "Komplex, mégis könnyen átlátható jogosultság-kezelés",
+  "Service5Paragraph3": "Fejlett, automatizált változáskövető megoldások (changelog, graphlog)",
+  "Service5Paragraph4": "Széles körű adatszivárgás-védelem",
+  "Service5Paragraph5": "Kényelmes és intuitív csoportmunka-támogatás (smart code review, smart commit, processenforcement)",
+  "Service5Paragraph6": "Korlátlan számú repository és instance kezelése",
+  "Service5Paragraph7": "Beépített, részletes analitikus és vezetői információs eszközök",
+
+
+  "Service5Commenter": "John Doe",
+  "Service5CommenterRole": "CEO of Pepsi",
+  "Service5Comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+
+  "OurValues": "Értékeink",
+  "OurValuesTitle": "Bízunk a hosszú távú partnerségben, és tudjuk, hogy az ügyfelek bizalma a legértékesebb kincsünk.",
+  "OurValuesSupportText": "Cégünk megalakulása óta olyan értékekre alapozza működését, melyekről hisszük, hogy egy hosszú távon sikeres üzletmenet kizárólagos biztosítékai.",
+
+  "Value1": "Megbízhatóság",
+  "Value1Description1": "ISO 27001:2014 szabvány szerint tanúsított információbiztonsági irányítási rendszer",
+  "Value1Description2": "Tapasztalt (15-20 év szakmai rutinnal rendelkező) menedzsment",
+  "Value1Description3": "Teljes körű informatikai szolgáltatások kiemelt kockázatú (pénzügyi/befektetési) szektorbeli ügyfelek számára",
+  "Value1Description4": "2003 óta folyamatosan jelen van az autóipari DMS piacon",
+  "Value1Description5": "Üzletpolitikánk a mennyiségi növekedés helyett a minőségi fejlődést helyezi előtérbe",
+
+  "Value2": "Rugalmasság",
+  "Value2Description1": "Célorientált szakértői csapatok gyors felállításának képessége",
+  "Value2Description2": "Nagyon rövid válaszidők mind a piaci folyamatok, mind a megrendelői igények tekintetében",
+  "Value2Description3": "Kiterjedt kapcsolati rendszer a magyar IT piacon, gyors hozzáférés speciális tudású szakemberekhez",
+  "Value2Description4": "Autóipari DMS csapat: közel 20 nagy tapasztalattal rendelkező vezető csapattag",
+  "Value2Description5": "Gyors alkalmazkodóképesség",
+
+  "Value3": "Erős regionális piaci jelenlét",
+  "Value3Description1": "A cég közvetlen DMS disztribútor 12 országban",
+  "Value3Description2": "A budapesti regionális központ 9 nyelven nyújt támogatást az Automaster ügyfeleinek",
+  "Value3Description3": "Az Alliedsoft széleskörű tapasztalattal rendelkezik az automata/DMS projektek területén mind Közép-Európában mind pedig Észak-nyugat Európában",
+  "Value3Description4": "Megoldások és szolgáltatások nyújtása több mint 100 kereskedő (és 25 márka) számára 12 országban",
+  "Value3Description5": "~3500 felhasználó támogatása",
+
+  "ReferencesTitle": "Büszkék vagyunk, hogy az alábbi kiváló cégeket elégedett ügyfeleink sorában tudhatjuk:",
+
+  "OurWorkTitle": "Our Work Title",
+  "OurWorkSupportText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "CaseStudies": "Esettanulmányok",
+  "ReadCaseStudy": "Megtekintés",
+
+  "OurWorkClientsTitle": "Our Work Clients Title",
+
+  "BlogPageTitle": "Legfrissebb cikkeink és híreink",
+  "BlogPageTitleSupportText": "Maradj naprakész a legújabb hírekkel és cikkekkel kapcsolatban.",
+  "Published": "Kiadva",
+  "Author": "Író",
+  "ReadMore": "Megtekintés",
+
+  "Client": "Ügyfél",
+  "Year": "Év",
+  "Service": "Szolgáltatás",
+  "MoreCaseStudies": "További esettanulmányok",
+  "MoreArticles": "További blogposztok",
+  "By": "írta"
+}
