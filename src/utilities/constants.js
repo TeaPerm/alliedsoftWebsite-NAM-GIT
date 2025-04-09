@@ -1,6 +1,7 @@
 import placeholderPortrait from '@/images/clients/placeholder/placeholderPortrait.jpg'
 import logoPhobiaLight from '@/images/clients/phobia/logo-light.svg'
 import { socialMediaProfiles } from '@/components/SocialMedia'
+import silverStarMotors from '@/images/SilverStarMotors_logo.png'
 
 export const team = [
   {
@@ -71,37 +72,46 @@ export const team = [
 ]
 
 export const clients = [
-  ['Daimler Truck AG', "https://companieslogo.com/img/orig/DTG.F_BIG-d09279ec.png?t=1720244491"],
-  ['Emil Frey Gruppe', "https://upload.wikimedia.org/wikipedia/de/0/03/Emil_Frey_Gruppe_logo.svg"],
-  ['Keyloop Global Inc', "https://cdn-images.am-online.com/thumbs/320x320/media/1/root/keyloop-logo-rgb-slate-hi-res-1.png"],
-  ['Silver Star Motors EAD', "https://dealer-partner-assets.roadster.com/silverstarny/SilverStarMotors_black.png"],
+  [
+    'Daimler Truck AG',
+    'https://companieslogo.com/img/orig/DTG.F_BIG-d09279ec.png?t=1720244491',
+  ],
+  [
+    'Emil Frey Gruppe',
+    'https://upload.wikimedia.org/wikipedia/de/0/03/Emil_Frey_Gruppe_logo.svg',
+  ],
+  [
+    'Keyloop Global Inc',
+    'https://cdn-images.am-online.com/thumbs/320x320/media/1/root/keyloop-logo-rgb-slate-hi-res-1.png',
+  ],
+  ['Silver Star Motors EAD', silverStarMotors],
 ]
 
 export const navigation = (lng) => {
-    return [
-      {
-        title: 'OurWork',
-        links: [
-          { title: 'Work1', href: `/${lng}/work/case-study-1` },
-          { title: 'Work2', href: `/${lng}/work/case-study-2` },
-          {
-            title: 'See all →',
-            href: `/${lng}/work`,
-          },
-        ],
-      },
-      {
-        title: 'Company',
-        links: [
-          { title: 'AboutUs', href: `/${lng}/about` },
-          { title: 'OurServices', href: `/${lng}/services` },
-          { title: 'Blog', href: `/${lng}/blog` },
-          { title: 'ContactUs', href: `/${lng}/contact` },
-        ],
-      },
-      {
-        title: 'Connect',
-        links: socialMediaProfiles,
-      },
-    ]
-  }
+  return [
+    {
+      title: 'OurWork',
+      links: [
+        { title: 'Work1', href: `/${lng}/work/case-study-1` },
+        { title: 'Work2', href: `/${lng}/work/case-study-2` },
+        {
+          title: 'See all →',
+          href: `/${lng}/work`,
+        },
+      ],
+    },
+    {
+      title: 'Company',
+      links: [
+        { title: 'AboutUs', href: `/${lng}/about` },
+        { title: 'OurServices', href: `/${lng}/services` },
+        { title: 'Blog', href: `/${lng}/blog` },
+        { title: 'ContactUs', href: `/${lng}/contact` },
+      ],
+    },
+    {
+      title: 'Connect',
+      links: socialMediaProfiles,
+    },
+  ]
+}

@@ -43,7 +43,7 @@ export default function LanguageSelector({ invert, lng }) {
               className={`peer block w-40  rounded-xl border border-accent-100  bg-transparent py-[5px] pl-4 pr-4 text-base/6  ring-1 ring-transparent transition  focus:outline-none  group-first:rounded-t-2xl group-last:rounded-b-2xl ${invert ? 'focus:ring-gray-100-/5 text-white focus:border-white' : 'text-accent-950 focus:border-accent-600 focus:ring-accent-950/5'}`}
             >
               <div className="flex items-center gap-1 truncate">
-                <Image src={selected.image} className="w-5" />
+                <Image src={selected.image} className="w-5" alt={selected.name} />
                 <span>{selected.name}</span>
               </div>
               <span className="absolute inset-y-0 right-0 flex items-center pr-2 pointer-events-none">
@@ -82,7 +82,7 @@ export default function LanguageSelector({ invert, lng }) {
                             'flex items-center gap-2 truncate py-2 pl-3 pr-9',
                           )}
                         >
-                          <Image src={language.image} className="w-5" />
+                          <Image src={language.image} className="w-5" alt={language.name} />
                           {language.name}
                         </Link>
 
